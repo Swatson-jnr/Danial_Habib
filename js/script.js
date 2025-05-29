@@ -39,13 +39,13 @@ const reviews = [
     text: "Joy horrible moreover man feelings own shy.Request norland neither mistake for yet.Between the for morning assured.",
   },
 
-  {
-    id: 6,
-    name: "BASIN",
-    position: "SOCIAL MEDIA MANAGER",
-    img: "img/7.JPG",
-    text: "With lots of unique and useful features, you can easily manage your wallet easily without any problem.",
-  },
+  //   {
+  //     id: 6,
+  //     name: "BASIN",
+  //     position: "SOCIAL MEDIA MANAGER",
+  //     img: "img/7.JPG",
+  //     text: "With lots of unique and useful features, you can easily manage your wallet easily without any problem.",
+  //   },
 ];
 
 // // first you need to get the targets being the img, the comment and the button
