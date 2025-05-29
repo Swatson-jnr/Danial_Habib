@@ -35,7 +35,7 @@ const reviews = [
     id: 5,
     name: "HELEN",
     position: "CONTENT CREATOR",
-    img: "img/4.jpg",
+    img: "img/4.JPG",
     text: "Joy horrible moreover man feelings own shy.Request norland neither mistake for yet.Between the for morning assured.",
   },
 
@@ -43,7 +43,7 @@ const reviews = [
     id: 6,
     name: "BASIN",
     position: "SOCIAL MEDIA MANAGER",
-    img: "img/7.jpg",
+    img: "img/7.JPG",
     text: "With lots of unique and useful features, you can easily manage your wallet easily without any problem.",
   },
 ];
